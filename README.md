@@ -222,7 +222,7 @@ This project is open source and available under the [MIT License](LICENSE).
 **Jannatul Ferdous Asha**
 
 - 🌐 Portfolio: [ashajannatulferdous.github.io/jannat](https://ashajannatulferdous.github.io/jannat)
-- 💼 LinkedIn: [linkedin.com/in/sabera-banu-6047a02b3](https://www.linkedin.com/in/sabera-banu-6047a02b3/)
+- 💼 LinkedIn: (https://www.linkedin.com/in/jannatul-asha-7a309832b/)
 - 💻 GitHub: [@Ashajannatulferdous](https://github.com/Ashajannatulferdous)
 - 📧 Email: jannatulferdousasha26@gmail.com
 
