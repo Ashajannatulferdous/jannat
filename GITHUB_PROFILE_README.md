@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hello, I'm Sabera Banu
+# 👋 Hello, I'm Jannatul Ferdous Asha
 
 ### 💻 ML/AI Developer | 🎓 Computer Science Student | 🌍 Seoul, South Korea
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-saberabanu.netlify.app-6366f1?style=for-the-badge&logo=netlify&logoColor=white)](https://saberabanu.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sabera%20Banu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabera-banu-6047a02b3/)
-[![Email](https://img.shields.io/badge/Email-saberabanu677@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saberabanu677@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ashajannatulferdous.github.io/jannat-6366f1?style=for-the-badge&logo=netlify&logoColor=white)](https://ashajannatulferdous.github.io/jannat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jannatul Ferdous Asha%20Banu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabera-banu-6047a02b3/)
+[![Email](https://img.shields.io/badge/Email-jannatulferdousasha26@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jannatulferdousasha26@gmail.com)
 
 **Python Developer | Computer Science Student @ Sejong University**  
 *Passionate about turning data into intelligent, human-centered AI solutions* 🚀
@@ -82,7 +82,7 @@
 
 > Award-winning physical AI assistant robot with real-time vision, intelligent mobility, and natural interaction.
 
-[![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat&logo=github)](https://github.com/saberabanu0001/CapstoneRoboticsProject)
+[![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat&logo=github)](https://github.com/Ashajannatulferdous/CapstoneRoboticsProject)
 
 </td>
 <td width="50%">
@@ -96,7 +96,7 @@
 
 > OCR and VLM based tool to digitize handwritten prescriptions and extract clinical data.
 
-[![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat&logo=github)](https://github.com/saberabanu0001/PrescriptionPro)
+[![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat&logo=github)](https://github.com/Ashajannatulferdous/PrescriptionPro)
 
 </td>
 </tr>
@@ -112,7 +112,7 @@
 
 > Personal AI agent analyzing student profiles to find, rank, and help apply for suitable scholarships.
 
-[![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat&logo=github)](https://github.com/saberabanu0001/ApplySmart)
+[![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat&logo=github)](https://github.com/Ashajannatulferdous/ApplySmart)
 
 </td>
 
@@ -127,7 +127,7 @@
 
 > AI companion with voice input, seriousness detection, and emergency resource routing.
 
-[![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat&logo=github)](https://github.com/saberabanu0001/NewCalmateAI)
+[![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat&logo=github)](https://github.com/Ashajannatulferdous/NewCalmateAI)
 
 </td>
 </tr>
@@ -142,7 +142,7 @@
 
 > Campus-wide information hub delivering curated news and events for university members.
 
-[![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat&logo=github)](https://github.com/saberabanu0001/EventBuddy)
+[![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat&logo=github)](https://github.com/Ashajannatulferdous/EventBuddy)
 
 </td>
 </tr>
@@ -150,7 +150,7 @@
 
 <div align="center">
   <br />
-  <a href="https://github.com/saberabanu0001?tab=repositories">
+  <a href="https://github.com/Ashajannatulferdous?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
   </a>
 </div>
@@ -177,11 +177,11 @@
 
 <div align="center">
 
-![Sabera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saberabanu0001&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1)
+![Jannatul Ferdous Asha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashajannatulferdous&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saberabanu0001&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashajannatulferdous&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=saberabanu0001&theme=radical&hide_border=true&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Ashajannatulferdous&theme=radical&hide_border=true&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1)
 
 </div>
 
@@ -217,9 +217,9 @@
 
 <div align="center">
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-100%2B-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/saberabanu0001)
-[![CodeForces](https://img.shields.io/badge/CodeForces-50%2B-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/saberabanu0001)
-[![BeeCrowd](https://img.shields.io/badge/BeeCrowd-110%2B-FF6600?style=for-the-badge&logo=beecrowd&logoColor=white)](https://www.beecrowd.com.br/judge/en/profile/saberabanu0001)
+[![HackerRank](https://img.shields.io/badge/HackerRank-100%2B-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/Ashajannatulferdous)
+[![CodeForces](https://img.shields.io/badge/CodeForces-50%2B-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ashajannatulferdous)
+[![BeeCrowd](https://img.shields.io/badge/BeeCrowd-110%2B-FF6600?style=for-the-badge&logo=beecrowd&logoColor=white)](https://www.beecrowd.com.br/judge/en/profile/Ashajannatulferdous)
 
 </div>
 
@@ -238,10 +238,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366f1?style=for-the-badge)](https://saberabanu.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366f1?style=for-the-badge)](https://ashajannatulferdous.github.io/jannat)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabera-banu-6047a02b3/)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saberabanu0001)
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saberabanu677@gmail.com)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashajannatulferdous)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jannatulferdousasha26@gmail.com)
 
 </div>
 
@@ -253,7 +253,7 @@
 
 **⭐ Star my repositories if you find them interesting!**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=saberabanu0001&color=6366f1&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=Ashajannatulferdous&color=6366f1&style=flat-square)
 
 </div>
 

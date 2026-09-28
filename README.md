@@ -1,8 +1,8 @@
-# Portfolio - Sabera Banu
+# Portfolio - Jannatul Ferdous Asha
 
-A modern, responsive portfolio website showcasing the work and expertise of **Sabera Banu**, an ML/AI Developer and Python Instructor specializing in Natural Language Processing, Machine Learning, and full-stack development.
+A modern, responsive portfolio website showcasing the work and expertise of **Jannatul Ferdous Asha**, an Business Administration student specializing in Natural Language Processing, Machine Learning, and full-stack development.
 
-🌐 **Live Site:** [saberabanu.netlify.app](https://saberabanu.netlify.app)
+🌐 **Live Site:** [ashajannatulferdous.github.io/jannat](https://ashajannatulferdous.github.io/jannat)
 
 ---
 
@@ -39,7 +39,7 @@ portfolio-sabera/
 ├── public/                 # Static assets
 │   ├── calmate-ai-dashboard.png
 │   ├── image.png
-│   └── sabera-profile-pic.jpeg
+│   └── asha-profile.jpg
 ├── src/
 │   ├── components/         # React components
 │   │   ├── About.tsx
@@ -76,7 +76,7 @@ portfolio-sabera/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/saberabanu0001/portfolio-sabera.git
+   git clone https://github.com/Ashajannatulferdous/portfolio-sabera.git
    cd portfolio-sabera
    ```
 
@@ -201,7 +201,7 @@ Modify CSS variables in `src/index.css`:
    - **Publish directory:** `dist`
 4. Deploy!
 
-The site is currently deployed at: [saberabanu.netlify.app](https://saberabanu.netlify.app)
+The site is currently deployed at: [ashajannatulferdous.github.io/jannat](https://ashajannatulferdous.github.io/jannat)
 
 ### Other Platforms
 
@@ -219,12 +219,12 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Sabera Banu**
+**Jannatul Ferdous Asha**
 
-- 🌐 Portfolio: [saberabanu.netlify.app](https://saberabanu.netlify.app)
+- 🌐 Portfolio: [ashajannatulferdous.github.io/jannat](https://ashajannatulferdous.github.io/jannat)
 - 💼 LinkedIn: [linkedin.com/in/sabera-banu-6047a02b3](https://www.linkedin.com/in/sabera-banu-6047a02b3/)
-- 💻 GitHub: [@saberabanu0001](https://github.com/saberabanu0001)
-- 📧 Email: saberabanu677@gmail.com
+- 💻 GitHub: [@Ashajannatulferdous](https://github.com/Ashajannatulferdous)
+- 📧 Email: jannatulferdousasha26@gmail.com
 
 ---
 
